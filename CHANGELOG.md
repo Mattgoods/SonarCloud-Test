@@ -1,3 +1,12 @@
+## [0.1.3](https://github.com/Mazars-Tech/AD_Miner/compare/v0.1.2...v0.1.3) (2023-10-03)
+
+
+### Bug Fixes
+
+* replace gpo_deep by default gpo ([806b820](https://github.com/Mazars-Tech/AD_Miner/commit/806b82025edbbe03b980d31076bbf1f748df8aa6))
+
+
+
 ## [0.1.2](https://github.com/Mazars-Tech/AD_Miner/compare/v0.1.1...v0.1.2) (2023-10-03)
 
 
